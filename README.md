@@ -1,5 +1,4 @@
 # Alexandre Lopes Barbieri
-
 ---
 
 ## Certifications
