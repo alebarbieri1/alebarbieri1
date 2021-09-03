@@ -1,5 +1,4 @@
 # Alexandre Lopes Barbieri
----
 
 ## Certifications
 - <a href="https://www.credly.com/badges/1e566fab-7825-450a-8441-8135ac1a2104">AWS Certified Developer – Associate</a>
