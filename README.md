@@ -1,9 +1,9 @@
 # Alexandre Lopes Barbieri
 
 ## Certifications
-- <a href="https://www.credly.com/badges/1e566fab-7825-450a-8441-8135ac1a2104">AWS Certified Developer – Associate</a>
-- <a href="https://www.credly.com/badges/f1fc4383-2dbe-4880-8ec9-d2f5f8ee2996">AWS Certified Solutions Architect – Associate</a>
-- <a href="https://www.credly.com/badges/bdcba149-41a1-41e1-b139-a20290a6e4f0">AWS Certified Cloud Practitioner</a>
+- <a href="https://www.credly.com/badges/1e566fab-7825-450a-8441-8135ac1a2104" target="_blank">AWS Certified Developer – Associate</a>
+- <a href="https://www.credly.com/badges/f1fc4383-2dbe-4880-8ec9-d2f5f8ee2996" target="_blank">AWS Certified Solutions Architect – Associate</a>
+- <a href="https://www.credly.com/badges/bdcba149-41a1-41e1-b139-a20290a6e4f0" target="_blank">AWS Certified Cloud Practitioner</a>
 
 ---
 
