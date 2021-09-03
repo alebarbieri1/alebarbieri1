@@ -1,4 +1,4 @@
-### Alexandre Lopes Barbieri
+# Alexandre Lopes Barbieri
 
 ---
 
